@@ -1,0 +1,17 @@
+{
+    "name": "Pingu_Servo",
+    "version": "1.0.0",
+    "description": "Custom servo library for ESP32",
+    "repository": {
+        "type": "git",
+        "url": "//www.youtube.com/watch?v=9sUJgcUfbvc"
+    },
+    "authors": [
+        {
+            "name": "Pingu",
+            "email": "Pingu@gmail.com"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}
